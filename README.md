@@ -2,12 +2,12 @@
 This project is a public API that returns basic information including a registered email address, the current datetime, and the GitHub URL of the project's codebase.
 
 ## Setup Instructions
+
 1. Clone the repository.
 2. Install the dependencies:
    ```bash
    npm install
-3.Start the server:
-
+3.Start the server
    npm start
 
 ##API Documentation
