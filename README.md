@@ -24,4 +24,10 @@ Response Format (200 OK)
   "github_url": "https://github.com/yourusername/your-repo"
 }
 
-https://hng.tech.hire/node.js-developers
+
+BACKLINK
+-https://hng.tech.hire/node.js-developers
+
+Deployment
+
+The API is deployed to a publicly accessible endpoint: hngapi-s1ka.onrender.com
