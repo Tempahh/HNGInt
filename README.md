@@ -30,4 +30,4 @@ BACKLINK
 
 Deployment
 
-The API is deployed to a publicly accessible endpoint: hngapi-s1ka.onrender.com
+The API is deployed to a publicly accessible endpoint: https://hngapi-s1ka.onrender.com
