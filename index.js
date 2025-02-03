@@ -4,7 +4,7 @@ const app = express();
 app.get('/', (req, res) => {
     const response = {
         email: 'plance991@gmail.com',
-        currentdate: new Date().toISOString(),
+        current_datetime: new Date().toISOString(),
         github_url: 'https://github.com/tempahh/hngint'
     };
 
