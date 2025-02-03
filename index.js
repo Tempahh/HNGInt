@@ -5,7 +5,7 @@ app.get('/', (req, res) => {
     const response = {
         email: 'plance991@gmail.com',
         currentdate: new Date().toISOString(),
-        github_url: 'https:github.com/tempahh/hngint'
+        github_url: 'https://github.com/tempahh/hngint'
     };
 
     res.json(response);
